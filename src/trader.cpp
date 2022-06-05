@@ -15,6 +15,7 @@ using tcp = boost::asio::ip::tcp;
 using namespace std;
 
 int main() {
+    cout << "testing remote acces" << endl;
     string host = "ws-feed.exchange.coinbase.com";
     auto const  port = "443";
 
