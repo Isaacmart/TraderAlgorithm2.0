@@ -5,4 +5,6 @@
 #ifndef WSCONNECTOR_H
 #define WSCONNECTOR_H
 
-#endif WSCONNECTOR_H
+int connect
+
+#endif //WSCONNECTOR_H

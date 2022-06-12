@@ -5,7 +5,7 @@
 
 int main() {
 
-    int max = 1000000;
+    int max = 100000;
     double container[max][6];
 
     for (int i = 0; i < max; i++) {
